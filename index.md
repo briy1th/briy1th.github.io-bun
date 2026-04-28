@@ -7,7 +7,8 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. --> 
 <!-- I did not know how to do that I am so sorry I had to upload it and then add it. I am sorry to make it this complicated. -->
-![My Photo](https://raw.githubusercontent.com/briy1th/briy1th.github.io-bun/main/GettyImages-959157902-scaled.jpg)
+<img src="https://raw.githubusercontent.com/briy1th/briy1th.github.io-bun/main/GettyImages-959157902-scaled.jpg" width="400">
+
 
 Assignment: Propose an idea for the course to improve next semester.
 
