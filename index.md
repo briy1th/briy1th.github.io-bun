@@ -36,7 +36,7 @@ This chart is left skewed meaning that the median is higher than the mean. This 
 
 this reinforces the idea that if the majority want it, they should have it!
 
-## Scatter Plot:
+## Scatter Plot: Slight Negative Correlation
 ![My_Photo](https://raw.githubusercontent.com/briy1th/briy1th.github.io-bun/main/08a9720c-06cc-4397-b4aa-887355ca671a.png)
 
 The rating make the scatter plot look very funky! However, it is very similar to the boxplot. You can see a slightly negative correlation. 
