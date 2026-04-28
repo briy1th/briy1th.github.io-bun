@@ -48,6 +48,7 @@ graph you see that everyone wants them. I believe this means that higher rated u
 optional. Nevertheless, after a certain difficulty level everyone want them. 
 
 
+
 ## Conclusion
 
 In the end, people want lecture videos. If this does not prove it I don't what will. The scatter plot, bar chart, and box plot demonstrate that 
@@ -60,5 +61,7 @@ done again. If it is done again, there should be a question which asks if the pr
 
 determine if it is valuable. The best thing about this is that as the content is pretty similar to previous semester re-recordings will not be a 
 
-hastle. It will be the first semester implementing this which will be a hastle. Otherwise, the videos can be used for years. 
+hastle. It will be the first semester implementing this which will be a hastle. Otherwise, the videos can be used for years. Students can also give
+
+optional feedback on the videos and emphasize what they think would be more useful. 
 
