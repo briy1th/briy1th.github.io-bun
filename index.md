@@ -32,4 +32,7 @@ this reinforces the idea that if the majority want it, they should have it!
 ## Scatter Plot:
 ![My_Photo](https://raw.githubusercontent.com/briy1th/briy1th.github.io-bun/main/08a9720c-06cc-4397-b4aa-887355ca671a.png)
 
-This is basic paragraph text
+The rating make the scatter plot look very funky! However, it is very similar to the boxplot. You can see a slightly negative correlation. 
+Especially at the beginning! Same thing as before, the more people understand the less they want it! However, when you get to the mid point of the 
+graph you see that everyone wants them. I believe this means that higher rated understanding definitely do not want them. Therefore they should be 
+optional. Nevertheless, after a certain difficulty level everyone want them. 
