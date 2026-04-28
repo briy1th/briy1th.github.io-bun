@@ -18,7 +18,7 @@ them on 2x speed a day before class and walk into class having confidence of wha
 
 target the lecture beforehand. Everyone who is a noob like me can be a noob still but.... they can understand everything better! Below are some
 
-charts which try to prove my point.
+charts which try to prove my point by using the variables pre-lecture-videos and understanding.
 
 ## Box Plot: People who do not understand want this!
 ![My Photo](https://raw.githubusercontent.com/briy1th/briy1th.github.io-bun/main/52d071ef-21e2-4bbb-a31e-61e899b44b1c.png)
@@ -46,3 +46,19 @@ Especially at the beginning! Same thing as before, the more people understand th
 graph you see that everyone wants them. I believe this means that higher rated understanding definitely do not want them. Therefore they should be 
 
 optional. Nevertheless, after a certain difficulty level everyone want them. 
+
+
+## Conclusion
+
+In the end, people want lecture videos. If this does not prove it I don't what will. The scatter plot, bar chart, and box plot demonstrate that 
+
+people with mid to low understanding desire the pre-lecture videos. The course should implement an overview that is optional to students prior to 
+
+class. However, there should be an emphasis that these videos truly aid in understanding. That can be done later down the line if this project is
+
+done again. If it is done again, there should be a question which asks if the pre-lecture videos aided in their understanding. This will help to 
+
+determine if it is valuable. The best thing about this is that as the content is pretty similar to previous semester re-recordings will not be a 
+
+hastle. It will be the first semester implementing this which will be a hastle. Otherwise, the videos can be used for years. 
+
